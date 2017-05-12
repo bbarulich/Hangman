@@ -1,0 +1,56 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+  background-color: #BF0A30;
+  color: white;
+  font-size: 18px;
+}
+
+#jumbotron {
+  background-image: url('../images/headerphoto.png');
+  background-size: contain;
+  height: 300px;
+  text-align: center;
+  font-family: 'quicksand',
+  font-size: 100px;
+  color:#BF0A30;
+}
+h1{
+	font-size:70px;
+}
+
+#console {
+  border: 4px dashed;
+  border-color:#002868;
+  height: 400px;
+}
+
+#instructions {
+  border: 4px dashed;
+  border-color:#002868;
+  height: 400px;
+}
+
+#instructions p {
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.spaces {
+  display: inline-block;
+}
+
+#footer {
+	text-align: center;
+	padding-top: 20px;
+	color: white;
+	text-decoration: none;
+}
+
+#footer a {
+	color:white;
+}
+
+	
